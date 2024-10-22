@@ -473,7 +473,7 @@ ul {
     height: 30px;
     border-radius: 50%;
     position: relative;
-    background: #ff99cc;
+    background: var(--primary_color);
 }
 .global-color .global-color-option .color-boxed a::before {
     content: '';
